@@ -1,0 +1,61 @@
+.content {
+    padding-top: 25px;
+}
+
+.content h1 {
+    text-align: center;
+}
+
+.intro {
+    box-sizing: border-box;
+    width: 600px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.slide-content {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.intro-footer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.intro-button {
+    height: 50px;
+    width: 120px;
+    margin-top: 35px;
+}
+
+.goals {
+    box-sizing: border-box;
+    width: 600px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.goals-footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+
+.goals-button {
+    height: 50px;
+    width: 120px;
+}
+
+.code-card {
+    box-sizing: border-box;
+    width: 800px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+}
